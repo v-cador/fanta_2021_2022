@@ -1,0 +1,9 @@
+Utilisation de github pages
+
+Pour utiliser github, il faut maintenant un token (voir cette doc : https://gist.github.com/Z3tt/3dab3535007acf108391649766409421)
+
+Ne pas oublier de mettre à jour le package "gh" pour qu'il prenne bien en compte le token (cf https://community.rstudio.com/t/usethis-use-github-error-in-validate-gh-pat/105737)
+
+
+Utilisation de github pages :
+https://www.r-bloggers.com/2021/11/deploying-xaringan-slides-with-github-pages/
