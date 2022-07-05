@@ -1,0 +1,6 @@
+"0","my_score_long %>% group_by(joueur) %>%"
+"0","  summarise(Score_max = max(points_journee),"
+"0","            Score_min = min(points_journee),"
+"0","            Buts_max = max(score)) %>%"
+"0","  arrange(desc(Score_max)) %>%"
+"0","  knitr::kable()"

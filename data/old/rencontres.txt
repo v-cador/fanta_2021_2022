@@ -1,0 +1,29 @@
+joueur1	score_joueur1	score_joueur2	joueur2
+Valentin	0	1	Mathias
+Maxime M	0	0	Mallory
+Rodolphe	0	0	Loïck
+Nicolas	6	1	Maxime D
+Valentin	0	0	Nicolas
+Maxime D	7	3	Rodolphe
+Loïck	0	0	Maxime M
+Mallory	2	1	Mathias
+Valentin	0	0	Rodolphe
+Nicolas	4	0	Maxime M
+Maxime D	0	0	Mathias
+Loïck	0	2	Mallory
+Valentin	0	0	Loïck
+Mallory	1	1	Maxime D
+Mathias	0	0	Nicolas
+Maxime M	1	0	Rodolphe
+Valentin	1	4	Maxime M
+Rodolphe	1	3	Mathias
+Nicolas	2	1	Mallory
+Maxime D	0	0	Loïck
+Valentin	0	0	Mallory
+Mathias	0	2	Loïck
+Maxime M	0	0	Maxime D
+Rodolphe	0	1	Nicolas
+Valentin	0	0	Maxime D
+Loïck	0	1	Nicolas
+Mallory	0	0	Rodolphe
+Mathias	0	0	Maxime M

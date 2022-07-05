@@ -1,0 +1,16 @@
+joueur1	score_joueur1	score_joueur2	joueur2
+Rodolphe	0	0	Mathias
+Valentin	1	3	Maxime M
+Maxime D	0	0	Loïck
+Loïck	0	0	Valentin
+Mathias	0	0	Maxime D
+Maxime M	3	1	Rodolphe
+Rodolphe	1	6	Loïck
+Valentin	0	0	Maxime D
+Maxime M	2	2	Mathias
+Loïck	1	3	Maxime M
+Valentin	3	0	Mathias
+Maxime D	2	0	Rodolphe
+Rodolphe	0	3	Valentin
+Mathias	4	2	Loïck
+Maxime M	5	0	Maxime D
